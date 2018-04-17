@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Mineglory
+Mineglory is planned to be a moba server for Minecraft following the gameplay elements of Games like League of Legends or VainGlory.   
+### Why does the IP change a lot?
 
-You can use the [editor on GitHub](https://github.com/MineGlory/mineglory.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We don't take any money from you, everyone gets the same gameplay experience without buying any pay to win crates. That's why we have to rely on free hosting services. We'd have to pay about 5$ per month per server instance to get static ip's which is in my oppinion not worth it. If we're one day opeing a patreon, all the money goes into better hositng options first. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Not-Even-Alpha
+This server is more than unfinished. The map is about 20% complete and there's currently no working teaming or objective system. This server
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MineGlory/mineglory.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Install on your server
+We know that we don't and propably also won't have the budget to become a big server network that you would play on daily, so our focus is on developing and distributing the game mode just like things like MineZ. At the moment there's no installer for easily getting the gamemode installed on your server. If you're interested in adding Mineglory to your Server please contact me at paperbenni@gmail.com
